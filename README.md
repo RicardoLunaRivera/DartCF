@@ -1,4 +1,4 @@
 # Dart
-Curso de dar en Codigo Facilito
+Curso Prodesional de Dar en Codigo Facilito
 
 ![img](./img/DartCF.png)
